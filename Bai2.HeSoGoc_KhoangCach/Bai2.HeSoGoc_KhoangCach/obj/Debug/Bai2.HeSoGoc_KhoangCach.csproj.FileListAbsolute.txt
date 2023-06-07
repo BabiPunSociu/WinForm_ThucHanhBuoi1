@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\bin\Debug\Bai2.HeSoGoc_KhoangCach.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\bin\Debug\Bai2.HeSoGoc_KhoangCach.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\bin\Debug\Bai2.HeSoGoc_KhoangCach.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\obj\Debug\Bai2.HeSoGoc_KhoangCach.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\obj\Debug\Bai2.HeSoGoc_KhoangCach.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\obj\Debug\Bai2.HeSoGoc_KhoangCach.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\obj\Debug\Bai2.HeSoGoc_KhoangCach.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\obj\Debug\Bai2.HeSoGoc_KhoangCach.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\obj\Debug\Bai2.HeSoGoc_KhoangCach.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\obj\Debug\Bai2.HeSoGoc_KhoangCach.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai2.HeSoGoc_KhoangCach\Bai2.HeSoGoc_KhoangCach\obj\Debug\Bai2.HeSoGoc_KhoangCach.pdb

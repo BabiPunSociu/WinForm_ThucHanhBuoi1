@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\bin\Debug\Bai3_GiaiPTB2.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\bin\Debug\Bai3_GiaiPTB2.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\bin\Debug\Bai3_GiaiPTB2.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\obj\Debug\Bai3_GiaiPTB2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\obj\Debug\Bai3_GiaiPTB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\obj\Debug\Bai3_GiaiPTB2.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\obj\Debug\Bai3_GiaiPTB2.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\obj\Debug\Bai3_GiaiPTB2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\obj\Debug\Bai3_GiaiPTB2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\obj\Debug\Bai3_GiaiPTB2.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\Bai3_GiaiPTB2\Bai3_GiaiPTB2\obj\Debug\Bai3_GiaiPTB2.pdb

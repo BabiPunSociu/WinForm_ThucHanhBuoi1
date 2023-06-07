@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ViDu1_CanHoHCN.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ViDu1_CanHoHCN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ViDu1_CanHoHCN.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ViDu1_CanHoHCN.AssemblyInfo.cs
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ViDu1_CanHoHCN.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\bin\Debug\net6.0\ViDu1_CanHoHCN.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\bin\Debug\net6.0\ViDu1_CanHoHCN.deps.json
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\bin\Debug\net6.0\ViDu1_CanHoHCN.runtimeconfig.json
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\bin\Debug\net6.0\ViDu1_CanHoHCN.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\bin\Debug\net6.0\ViDu1_CanHoHCN.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ViDu1_CanHoHCN.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\refint\ViDu1_CanHoHCN.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ViDu1_CanHoHCN.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ViDu1_CanHoHCN.genruntimeconfig.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi1\ViDu1_CanHoHCN\ViDu1_CanHoHCN\obj\Debug\net6.0\ref\ViDu1_CanHoHCN.dll
